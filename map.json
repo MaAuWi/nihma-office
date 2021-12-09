@@ -48,6 +48,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Leertaste druecken, um am Gespraech teilzunehmen."
                 }],
          "type":"tilelayer",
          "visible":true,
