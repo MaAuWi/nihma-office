@@ -73,7 +73,7 @@
                  "value":"https:\/\/nihma.de"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
