@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Leertaste druecken, fuer mehr Infos zu NIHMA."
+                 "value":"Leertaste druecken fuer mehr Infos zu NIHMA."
                 }],
          "type":"tilelayer",
          "visible":true,
