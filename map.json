@@ -24,7 +24,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Arbeitskreis"
+                 "value":"Update"
                 }, 
                 {
                  "name":"jitsiTrigger",
