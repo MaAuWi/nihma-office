@@ -255,7 +255,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -321,8 +321,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":175.666666666667,
-                 "y":534
+                 "x":53.6666666666667,
+                 "y":626
                 }],
          "opacity":1,
          "type":"objectgroup",
