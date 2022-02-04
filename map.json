@@ -718,6 +718,20 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":2,
+         "firstgid":576,
+         "image":"src\/assets\/nihma_logo_farbe_klein.PNG",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"nihma_logo_farbe_klein",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
